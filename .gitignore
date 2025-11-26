@@ -1,1 +1,5 @@
 models/
+denji-lora/adapter_model.safetensors
+denji-lora/checkpoint-298/*.pt
+denji-lora/checkpoint-298/*.bin
+denji-lora/checkpoint-298/*.safetensors

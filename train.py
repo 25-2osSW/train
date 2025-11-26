@@ -4,7 +4,8 @@ from datasets import load_dataset
 from peft import LoraConfig
 import torch
 
-MODEL_NAME = "D:/denji_training/models/kanana-8b"
+MODEL_NAME = "/mnt/c/Users/muyer/Desktop/denji_training/models/kanana-8b"
+DATA_PATH = "/mnt/c/Users/muyer/Desktop/denji_training/data/denji.jsonl"
 
 # -------------------------
 # 1. Load dataset
